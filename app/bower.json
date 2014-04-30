@@ -1,0 +1,21 @@
+{
+  "name": "ProtractorTest",
+  "version": "0.0.0",
+  "authors": [
+    "Geoffrey Kimble <blindworld@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "latest",
+    "angular-route": "latest",
+    "bootstrap": "latest",
+    "angular-bootstrap": "latest"
+  }
+}
